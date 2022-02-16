@@ -1,0 +1,102 @@
+{
+  "exams": [
+    {
+      "subject": "Computer Architectures",
+      "date": "2020-06-05",
+      "startHour": "11:20",
+      "session": "Summer",
+      "classroom": "A001",
+      "universityYear": "2019-2020",
+      "studyYear": "1",
+      "section": "IR",
+      "numberOfPlaces": "50",
+      "teacher": "Ana P.",
+      "studentName": "User",
+      "id": 1
+    },
+    {
+      "subject": "Web Design",
+      "date": "2020-06-06",
+      "startHour": "09:40",
+      "session": "Summer",
+      "classroom": "A01",
+      "universityYear": "2019-2020",
+      "studyYear": "2",
+      "section": "IA",
+      "numberOfPlaces": "50",
+      "teacher": "Victoria I.",
+      "studentName": "User",
+      "id": 2
+    },
+    {
+      "subject": "Formal Languages",
+      "date": "2020-05-07",
+      "startHour": "13:00",
+      "session": "Summer",
+      "classroom": "AM",
+      "universityYear": "2019-2020",
+      "studyYear": "2",
+      "section": "IR",
+      "numberOfPlaces": "75",
+      "teacher": "Mark D.",
+      "studentName": "User",
+      "id": 3
+    },
+    {
+      "subject": "Computational Logic",
+      "date": "2020-06-12",
+      "startHour": "14:30",
+      "session": "Summer",
+      "classroom": "A11",
+      "universityYear": "2019-2020",
+      "studyYear": "1",
+      "section": "IE",
+      "numberOfPlaces": "35",
+      "teacher": "Adrian C.",
+      "studentName": "User",
+      "id": 4
+    },
+    {
+      "subject": "Calculus",
+      "date": "2020-07-09",
+      "startHour": "08:00",
+      "session": "Autumn",
+      "classroom": "AM",
+      "universityYear": "2019-2020",
+      "studyYear": "2",
+      "section": "IE",
+      "numberOfPlaces": "100",
+      "teacher": "Eva K.",
+      "studentName": "User",
+      "id": 5
+    },
+    {
+      "subject": "P3 - Java",
+      "date": "2020-12-06",
+      "startHour": "16:20",
+      "session": "Winter",
+      "classroom": "AM",
+      "universityYear": "2019-2020",
+      "studyYear": "3",
+      "section": "IA",
+      "numberOfPlaces": "75",
+      "teacher": "Flavia M.",
+      "studentName": "User",
+      "id": 6
+    },
+    {
+      "subject": "Embedded C",
+      "date": "2020-02-12",
+      "startHour": "18:00",
+      "session": "Winter",
+      "classroom": "AM",
+      "universityYear": "2019-2020",
+      "studyYear": "3",
+      "section": "IA",
+      "numberOfPlaces": "50",
+      "teacher": "Cosmin B.",
+      "studentName": "User",
+      "id": 7
+    }
+  ]
+}
